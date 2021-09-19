@@ -1,6 +1,6 @@
-# wise-api-rates
+# Wise API using Fintech Sandpit
 
-> Get rates for Wise API 
+> Get rates for Wise API using the Fintech Sandpit API
 
 ## Build Setup
 
